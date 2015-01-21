@@ -8676,7 +8676,8 @@ hr.large {
 /**
  * Site header, footer
  */
-.site-header{
+.site-header,
+.site-head{
   padding-bottom: 10px;
   padding-bottom: 0.625rem;
   text-align: center;
