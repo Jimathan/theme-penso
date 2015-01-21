@@ -8676,7 +8676,14 @@ hr.large {
 /**
  * Site header, footer
  */
-.site-header,
+.site-header{
+  padding-bottom: 10px;
+  padding-bottom: 0.625rem;
+  text-align: center;
+  border-bottom: solid #363636;
+  border-bottom-width: 2px;
+  border-bottom-width: 0.125rem;
+}
 .site-footer {
   *zoom: 1;
 }
