@@ -8676,7 +8676,12 @@ hr.large {
 /**
  * Site header, footer
  */
-.site-header,
+.site-header{
+  width: 100%;
+  padding: 30px 0 10px;
+  text-align: center;
+  background-color: #5f88cc;
+}
 .site-footer {
   *zoom: 1;
 }
