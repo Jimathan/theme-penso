@@ -8678,7 +8678,7 @@ hr.large {
  */
 .site-header{
   width: 100%;
-  padding: 10px 0 10px;
+/*  padding: 10px 0 10px;*/
   text-align: center;
   background-color: #ffffff;
 }
